@@ -6,7 +6,6 @@
 
 [![Latest Stable Version](http://poser.pugx.org/ahinest/laravela-dvertising/v)](https://packagist.org/packages/ahinest/laravel-advertising)
 [![Total Downloads](http://poser.pugx.org/ahinest/laravel-advertising/downloads)](https://packagist.org/packages/ahinest/laravel-advertising)
-[![License](http://poser.pugx.org/ahinest/laravel-advertising/license)](https://packagist.org/packages/ahinest/laravel-advertising)
 
 ## User guide:
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/J-E-L-E-Dev/laravel-advertising)
