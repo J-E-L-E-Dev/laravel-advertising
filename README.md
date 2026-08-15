@@ -4,9 +4,9 @@
 [![Laravel 11.x](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com/docs/11.x)
 [![Laravel 12.x](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com/docs/12.x)
 
-[![Latest Stable Version](http://poser.pugx.org/ahinest/laraveladvertising/v)](https://packagist.org/packages/ahinest/laraveladvertising)
-[![Total Downloads](http://poser.pugx.org/ahinest/laraveladvertising/downloads)](https://packagist.org/packages/ahinest/laraveladvertising)
-[![License](http://poser.pugx.org/ahinest/laraveladvertising/license)](https://packagist.org/packages/ahinest/laraveladvertising)
+[![Latest Stable Version](http://poser.pugx.org/ahinest/laraveladvertising/v)](https://packagist.org/packages/ahinest/laravel-advertising)
+[![Total Downloads](http://poser.pugx.org/ahinest/laraveladvertising/downloads)](https://packagist.org/packages/ahinest/laravel-advertising)
+[![License](http://poser.pugx.org/ahinest/laraveladvertising/license)](https://packagist.org/packages/ahinest/laravel-advertising)
 
 ## User guide:
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/J-E-L-E-Dev/laravel-advertising)
